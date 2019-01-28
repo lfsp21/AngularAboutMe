@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
